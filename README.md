@@ -1,4 +1,4 @@
-# raster_align
+# Radiometric_Align
 
 **Cross-sensor satellite image alignment and radiometric calibration pipeline**, developed during an internship at ISRO's National Remote Sensing Centre (NRSC). It aligns imagery from different satellite sensors onto a common grid and converts them to a physically comparable radiometric scale, so that pixel values and reflectance can be compared directly across sensors (e.g. Cartosat vs. Sentinel-2).
 
